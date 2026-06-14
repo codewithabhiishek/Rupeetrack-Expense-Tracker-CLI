@@ -1,15 +1,11 @@
 # RUPEETRACK 💸
 
-RUPEETRACK is a premium, offline-first Python CLI application to help students manage expenses, track budgets, analyze spending habits, and generate reports.
+RupeeTrack is an offline Python expense tracker that helps students manage expenses, track budgets, analyze spending habits, and generate reports from the command line.
 
-**Key Features:**
-- **Local Persistence & Export:** Automatically saves data to JSON and exports to CSV files.
-- **Visual Budgets:** Set monthly limits with visual ANSI progress bars and color warnings.
-- **Daily Timeline:** View historical spend visualizations directly in your terminal using ASCII charts.
-- **Spending Insights:** Tracks daily averages, top categories, and calculates a rule-based Financial Health Score with personalized advice.
-- **Financial Persona:** Profiles your spending behavior based on your highest category (e.g. Foodie Explorer vs Balanced Spender).
-- **Local Text Reports:** Generates formatted txt summaries locally.
+Features include expense tracking, budget monitoring, financial health scoring, spending insights, CSV export, report generation, and persistent JSON storage.
 
-**How to run:** Run `python3 expense_tracker.py` in your terminal.
+To run the program:
 
-*Future Improvement:* If I had more time, I would add recurring expense tracking, multi-user profiles, and design an optional graphical interface (GUI) while keeping the application strictly offline-first and privacy-focused.
+python3 expense_tracker.py
+
+If I had more time, I would add recurring expenses, multi-user profiles, and an optional graphical interface while keeping the application offline-first and privacy-focused.
