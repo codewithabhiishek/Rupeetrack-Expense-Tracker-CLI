@@ -1,0 +1,11 @@
+# User data
+expenses.json
+expenses.json.bak
+
+# Generated exports and reports
+expenses_*.csv
+expense_report_*.txt
+
+# Python cache
+__pycache__/
+*.pyc
